@@ -1,4 +1,6 @@
 # Font Documentation
-> These are some informations about fonts
+> These are some information about fonts
 
 *Typedesigners* are really **good** people.
+
+This is another addtition.
